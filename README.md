@@ -1,2 +1,2 @@
 # files
-This is where I serve my public files for my portfolio
+This is where I serve my latest resum in pdf format
