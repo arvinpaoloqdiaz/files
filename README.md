@@ -1,2 +1,2 @@
-# files
-This is where I serve my public files for my portfolio
+# JSON
+This is where I serve my json data for my portfolio
