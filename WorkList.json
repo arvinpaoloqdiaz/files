@@ -3,22 +3,37 @@
     {
       "company": "Power Electronics Inc.",
       "position": "Intern",
-      "date": "Jun 2019- Aug 2019"
-    },
-    {
-      "company": "Zuitt Coding Bootcamp",
-      "position": "Student",
-      "date": "Oct 2023- Jan 2024"
+      "date": "Jun 2019- Aug 2019",
+      "department":"LED Department",
+      "summary":[
+        "Reviewed and tested LED product prototypes, providing technical feedback that informed final design iterations.",
+        "Completed 240 hours of hands-on hardware and software integration work."
+      ]
     },
     {
       "company": "Department of Science and Technology - Philippine Textile Research Institute",
       "position": "Project Technical Assistant IV",
-      "date": "Oct 2024- Jun 2025"
+      "date": "Oct 2024- Jun 2025",
+      "department":"Office of the Director - Planning and ICT Staff",
+      "summary":[
+        "Develop the Events Management System of the PTRI",
+        "Create System Designs for the Information System assigned",
+        "Post content on PTRI government website",
+        "Assists in technical aspects of DOST-PTRI ICT Infrastructure",
+        "Pioneered the migration of Joomla government website to WordPress"
+      ]
     },
     {
       "company": "Searix",
       "position": "Full Stack Web Application Developer",
-      "date": "Jul 2025- Present"
+      "date": "Jul 2025- Present",
+      "department":"DevOps Team",
+      "summary":[
+        "Customize and extend existing projects built with CodeIgniter 3 (CI3) to meet client specific needs and business requirements.",
+        "Handle full deployment process using Apache2 web server, ensuring stable and secure production environments.",
+        "Perform ongoing updates and maintenance to live projects, addressing client feedback, feature enhancements, and bug fixes.",
+        "Collaborate with internal teams to gather requirements and deliver timely, high quality solutions "
+      ]
     }
   ]
 }
