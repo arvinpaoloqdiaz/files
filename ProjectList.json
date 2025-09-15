@@ -67,7 +67,7 @@
       "group_slug": "personal",
       "image_link": "../images/personal-project-3.png",
       "description": "This project is a personal blog application that I update as part of my growth as a developer. Built as a full-stack app, it allows me to write, edit, and share articles. The project combines frontend design with backend API integration, providing a complete content management experience. Through building this, I gained deeper insight into routing, data persistence, and deployment processes for production-ready apps.",
-      "button_link": "https://my-blog-app-two.vercel.app/",
+      "button_link": "https://blog.apqdiaz.site/",
       "repo_link": "https://github.com/arvinpaoloqdiaz/blog-app",
       "tags": ["all", "frontend", "backend", "full-stack", "personal"],
       "technologies":["react.js","boostrap","mongodb","express.js","RESTful API"]
