@@ -117,7 +117,7 @@
     "description": "A lightweight, static web application for calculating and tracking Body Mass Index (BMI) with a modern dark theme. Features a step-by-step wizard interface with flexible unit selection (independent units for weight and height, including feet & inches format), in-depth health analysis based on age and sex factors, comprehensive history tracking with clickable entries, and full unit conversion display. The app runs entirely client-side using localStorage for data persistence, includes accessibility features (ARIA labels, keyboard navigation), and provides clear data storage warnings. Built with vanilla JavaScript and Alpine.js for reactive UI, styled with Tailwind CSS using a carefully designed dark color scheme that's easy on the eyes.",
     "button_link": "https://bmi.apqdiaz.site",
     "repo_link": "https://github.com/arvinpaoloqdiaz/bmi-app",
-    "tags": ["all", "frontend", "personal", "health"],
+    "tags": ["all", "frontend", "personal"],
     "technologies": ["HTML5", "Tailwind CSS", "Alpine.js", "JavaScript", "localStorage API"]
     }
   ]
