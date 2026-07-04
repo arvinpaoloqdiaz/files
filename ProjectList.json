@@ -10,7 +10,8 @@
       "button_link": "https://old.apqdiaz.online",
       "repo_link": "https://github.com/arvinpaoloqdiaz/web-portfolio",
       "tags": ["all", "frontend", "capstone"],
-      "technologies":["html","css","javascript","bootstrap"]
+      "technologies":["html","css","javascript","bootstrap"],
+      "is_on_blog":false
     },
     {
       "title": "Backend API",
@@ -22,7 +23,8 @@
       "button_link": "https://arvinpaoloq-diaz.onrender.com",
       "repo_link": "https://github.com/arvinpaoloqdiaz/csp2-diaz",
       "tags": ["all", "backend", "capstone"],
-      "technologies":["express.js","mongodb","node.js"]
+      "technologies":["express.js","mongodb","node.js"],
+      "is_on_blog":false
     },
     {
       "title": "Full-Stack React App",
@@ -34,7 +36,8 @@
       "button_link": "https://csp3-diaz.vercel.app/",
       "repo_link": "https://github.com/arvinpaoloqdiaz/csp3-diaz",
       "tags": ["all", "frontend", "backend", "full-stack", "capstone"],
-      "technologies":["react.js","boostrap","mongodb","express.js","RESTful API"]
+      "technologies":["react.js","boostrap","mongodb","express.js","RESTful API"],
+      "is_on_blog":false
     },
     {
       "title": "Simple Calculator",
@@ -46,7 +49,8 @@
       "button_link": "https://arvinpaoloqdiaz.github.io/calculator/",
       "repo_link": "https://github.com/arvinpaoloqdiaz/calculator",
       "tags": ["all", "frontend", "personal"],
-      "technologies":["html","css","javascript"]
+      "technologies":["html","css","javascript"],
+      "is_on_blog":true
     },
     {
       "title": "Animated Login Form",
@@ -58,7 +62,8 @@
       "button_link": "https://arvinpaoloqdiaz.github.io/login-form/",
       "repo_link": "https://github.com/arvinpaoloqdiaz/login-form",
       "tags": ["all", "frontend", "personal"],
-      "technologies":["html","css","javascript"]
+      "technologies":["html","css","javascript"],
+      "is_on_blog":true
     },
     {
       "title": "Personal Blog",
@@ -70,7 +75,8 @@
       "button_link": "https://blog.apqdiaz.online/",
       "repo_link": "https://github.com/arvinpaoloqdiaz/blog-app",
       "tags": ["all", "frontend", "backend", "full-stack", "personal"],
-      "technologies":["react.js","boostrap","mongodb","express.js","RESTful API"]
+      "technologies":["react.js","boostrap","mongodb","express.js","RESTful API"],
+      "is_on_blog":false
     },
     {
       "title": "Blog API",
@@ -82,7 +88,8 @@
       "button_link": "https://blog-api-0qbb.onrender.com/",
       "repo_link": "https://github.com/arvinpaoloqdiaz/blog-api",
       "tags": ["all", "backend", "personal"],
-      "technologies":["express.js","mongodb","node.js"]
+      "technologies":["express.js","mongodb","node.js"],
+      "is_on_blog":false
     },
     {
       "title": "Weather App",
@@ -94,7 +101,8 @@
       "button_link": "https://weather-app-arvin-paolo-diazs-projects.vercel.app/",
       "repo_link": "https://github.com/arvinpaoloqdiaz/weather-app",
       "tags": ["all", "frontend", "full-stack", "personal"],
-      "technologies":["react.js","bootstrap","node.js","API integration"]
+      "technologies":["react.js","bootstrap","node.js","API integration"],
+      "is_on_blog":true
     },
     {
       "title": "To-do List",
@@ -106,7 +114,8 @@
       "button_link": "https://arvinpaoloqdiaz.github.io/my-to-do-list/",
       "repo_link": "https://github.com/arvinpaoloqdiaz/my-to-do-list",
       "tags": ["all", "frontend", "personal"],
-      "technologies":["html","css","javascript"]
+      "technologies":["html","css","javascript"],
+      "is_on_blog":true
     },
     {
     "title": "BMI Calculator",
@@ -118,7 +127,60 @@
     "button_link": "https://bmi.apqdiaz.online",
     "repo_link": "https://github.com/arvinpaoloqdiaz/bmi-app",
     "tags": ["all", "frontend", "personal"],
-    "technologies": ["HTML5", "Tailwind CSS", "Alpine.js", "JavaScript", "localStorage API"]
+    "technologies": ["HTML5", "Tailwind CSS", "Alpine.js", "JavaScript", "localStorage API"],
+    "is_on_blog":true
+    },
+    {
+    "title": "ReUseMe",
+    "slug": "reuseme",
+    "group": "Personal Projects",
+    "group_slug": "personal",
+    "image_link": "../images/reuseme.png",
+    "description": "A lightweight, web application for creating a quick harvard style resume. Has User Profiles and versions tailored for different companies. Only deployed locally, with an sqlite database for fast deployment",
+    "button_link": "",
+    "repo_link": "https://github.com/arvinpaoloqdiaz/reuseme",
+    "tags": ["all", "full-stack", "personal"],
+    "technologies": ["Laravel", "SQLite", "Tailwind CSS"],
+    "is_on_blog":true
+    },
+    {
+    "title": "Job Application Tracker",
+    "slug": "job-application-tracker",
+    "group": "Personal Projects",
+    "group_slug": "personal",
+    "image_link": "../images/job-application-tracker.png",
+    "description": "A laravel app used to track job appplication on different job sites. supports multiple person. only deployed locally.",
+    "button_link": "",
+    "repo_link": "https://github.com/arvinpaoloqdiaz/job-application-tracker",
+    "tags": ["all", "full-stack", "personal"],
+    "technologies": ["Laravel", "MySQL", "Tailwind CSS"],
+    "is_on_blog":true
+    },
+    {
+    "title": "Weddsite",
+    "slug": "weddsite",
+    "group": "Personal Projects",
+    "group_slug": "personal",
+    "image_link": "../images/weddsite.png",
+    "description": "A static website that offers wedding web services.",
+    "button_link": "https://weddsite.life",
+    "repo_link": "https://github.com/arvinpaoloqdiaz/weddsite-static",
+    "tags": ["all", "frontend", "personal"],
+    "technologies": ["NextJs", "Vercel", "Bootstrap"],
+    "is_on_blog":true
+    },
+    {
+    "title": "Cover Letter Generator",
+    "slug": "cover-letter-generator",
+    "group": "Personal Projects",
+    "group_slug": "personal",
+    "image_link": "../images/cover-letter-generator.png",
+    "description": "An attempt of vibe coding to deploy locally a cover letter generator based on uploaded resume and pasted job description. uses multi stage AI models to generate a cover letter.",
+    "button_link": "",
+    "repo_link": "https://github.com/arvinpaoloqdiaz/cover-letter-generator",
+    "tags": ["all", "full-stack", "personal"],
+    "technologies": ["NextJs", "MySQL", "Antigravity", "Gemini"],
+    "is_on_blog":true
     }
   ]
 }

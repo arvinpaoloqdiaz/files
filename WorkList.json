@@ -29,10 +29,14 @@
       "date": "Jul 2025- Present",
       "department":"DevOps Team",
       "summary":[
-        "Customize and extend existing projects built with CodeIgniter 3 (CI3) to meet client specific needs and business requirements.",
-        "Handle full deployment process using Apache2 web server, ensuring stable and secure production environments.",
-        "Perform ongoing updates and maintenance to live projects, addressing client feedback, feature enhancements, and bug fixes.",
-        "Collaborate with internal teams to gather requirements and deliver timely, high quality solutions "
+        "Deployed and customized event management systems for events, reducing client setup time by through optimized configuration workflows",
+        "Participated in migration of core systems to PHP 8.4, improving performance, maintainability, and compatibility with modern frameworks",
+        "Maintained and enhanced a core event management application, monitoring system performance, troubleshooting issues,resolving bugs, and implementing new features to support client requirements and improve user experience.",
+        "Deployed and managed applications on Nginx and Apache servers, ensuring stable production environments across multiple client systems",
+        "Developed unit and integration tests using Jest with mocks for React + TypeScript + Prisma applications, improving code reliability and maintainability",
+        "Introduced end-to-end (E2E) tests using Playwright, validating critical user flows and reducing production bugs ",
+        "Improved system reliability by reducing post-deployment issues through testing, debugging, and performance optimization",
+        "Handled concurrent client projects, delivering high-quality systems in fast-paced environments"
       ]
     }
   ]
