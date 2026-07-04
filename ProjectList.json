@@ -7,7 +7,7 @@
       "group_slug": "capstones",
       "image_link": "../images/capstone-project-1.png",
       "description": "This project was my very first capstone at the Zuitt Coding Bootcamp. It serves as both a portfolio and a milestone in my journey as a developer. Built with HTML, CSS, JavaScript, and Bootstrap, this project allowed me to focus on clean, responsive design principles while showcasing my earliest works. It helped me understand the importance of structuring content for both usability and visual appeal, laying the foundation for the rest of my projects.",
-      "button_link": "https://arvinpaoloqdiaz.github.io/web-portfolio/",
+      "button_link": "https://old.apqdiaz.online",
       "repo_link": "https://github.com/arvinpaoloqdiaz/web-portfolio",
       "tags": ["all", "frontend", "capstone"],
       "technologies":["html","css","javascript","bootstrap"]
@@ -67,7 +67,7 @@
       "group_slug": "personal",
       "image_link": "../images/personal-project-3.png",
       "description": "This project is a personal blog application that I update as part of my growth as a developer. Built as a full-stack app, it allows me to write, edit, and share articles. The project combines frontend design with backend API integration, providing a complete content management experience. Through building this, I gained deeper insight into routing, data persistence, and deployment processes for production-ready apps.",
-      "button_link": "https://blog.apqdiaz.site/",
+      "button_link": "https://blog.apqdiaz.online/",
       "repo_link": "https://github.com/arvinpaoloqdiaz/blog-app",
       "tags": ["all", "frontend", "backend", "full-stack", "personal"],
       "technologies":["react.js","boostrap","mongodb","express.js","RESTful API"]
